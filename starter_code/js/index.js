@@ -8,7 +8,7 @@ Assign to var city.
 If city equals NYC change background to nyc.jpg by adding .nyc to body.
 Else If city equals LA change background to la.jpg by adding .la to body.
 else If city equals SF change background to sf.jpg by adding .sf to body.
-else If city equals Austin change background to austin.jpg by adding .sydney to body. etc.
+else If city equals Austin change background to austin.jpg by adding .austin to body. etc.
 */
 
 $( document ).ready(function() {
